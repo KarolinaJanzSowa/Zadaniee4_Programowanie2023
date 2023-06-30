@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zadaniee4_Projektowanie2023
+namespace Zadaniee4_Programowanie2023
 {
     class Program_Main
     {
